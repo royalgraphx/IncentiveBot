@@ -8,6 +8,6 @@ Then run start.py
 
 Features:
 
-Positive Words List - Any word in this text document gets a '✅' reaction.
-Negative Wods List - Any word in this text document gets a '❌' reaction.
-Leaderboard - use the !leaderboard command to print out a Top 10 of the most XP!
+- Positive Words List - Any word in this text document gets a '✅' reaction.
+- Negative Words List - Any word in this text document gets a '❌' reaction.
+- Leaderboard - use the !leaderboard command to print out a Top 10 of the most XP!
